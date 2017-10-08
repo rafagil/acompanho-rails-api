@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyString
+  link: MyString
+  url: MyString
+  failedUpdate: 
+  category: one
+
+two:
+  title: MyString
+  description: MyString
+  link: MyString
+  url: MyString
+  failedUpdate: 
+  category: two
